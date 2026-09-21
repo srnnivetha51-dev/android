@@ -1,17 +1,21 @@
-# android
-##AIM
+# **Addition App**
+
+## **AIM**
 
 To develop a simple Android application that accepts two numbers from the user and displays their sum.
 
-##ALGORITHM
-Open Android Studio and create a new project.
-Create two EditText fields to enter two numbers.
-Create an ADD button and a result EditText.
-Get the values entered by the user.
-Convert the values into integers.
-Add the two numbers.
-Display the sum in the result box.
-##PROGRAM
+
+## **ALGORITHM**
+
+1. Open Android Studio and create a new project.
+2. Create two EditText fields to enter two numbers.
+3. Create an ADD button and a result EditText.
+4. Get the values entered by the user.
+5. Convert the values into integers.
+6. Add the two numbers.
+7. Display the sum in the result box.
+
+##**PROGRAM**
 ACTIVITY_MAIN.XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -84,10 +88,10 @@ public class MainActivity extends AppCompatActivity {
 
 
 ```
-##OUTPUT
+##**OUTPUT**
 
 <img width="957" height="504" alt="Screenshot 2026-09-21 092714" src="https://github.com/user-attachments/assets/8b02ce9a-a858-4656-962d-3eee875462f5" />
 <img width="959" height="506" alt="Screenshot 2026-09-21 092731" src="https://github.com/user-attachments/assets/8bfd96b5-849c-439f-ac6d-233521f4cdfc" />
 
-##RESULT
+##**RESULT**
 Thus, the Android application was successfully developed to add two numbers and display the summation value.
