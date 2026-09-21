@@ -15,7 +15,7 @@ To develop a simple Android application that accepts two numbers from the user a
 6. Add the two numbers.
 7. Display the sum in the result box.
 
-##**PROGRAM**
+## **PROGRAM**
 
 
 ACTIVITY_MAIN.XML
@@ -90,10 +90,10 @@ public class MainActivity extends AppCompatActivity {
 
 
 ```
-##**OUTPUT**
+## **OUTPUT**
 
 <img width="957" height="504" alt="Screenshot 2026-09-21 092714" src="https://github.com/user-attachments/assets/8b02ce9a-a858-4656-962d-3eee875462f5" />
 <img width="959" height="506" alt="Screenshot 2026-09-21 092731" src="https://github.com/user-attachments/assets/8bfd96b5-849c-439f-ac6d-233521f4cdfc" />
 
-##**RESULT**
+## **RESULT**
 Thus, the Android application was successfully developed to add two numbers and display the summation value.
