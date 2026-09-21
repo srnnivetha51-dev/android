@@ -16,6 +16,8 @@ To develop a simple Android application that accepts two numbers from the user a
 7. Display the sum in the result box.
 
 ##**PROGRAM**
+
+
 ACTIVITY_MAIN.XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
